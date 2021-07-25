@@ -775,17 +775,17 @@ ul.about-service li {
 .testimonial-list {
 }
 
-.single-testimonial h2 {
+.single-testimonial h2 a{
   font-size: 25px;
   text-transform: capitalize;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  color: #000;
   font-weight: 600;
+  color: #000;
 }
 
-.single-testimonial h3 {
-  color: #333;
+.single-testimonial h3 a{
+  color: rgb(46, 46, 46);
   font-size: 14px;
   margin: 0;
   text-transform: uppercase;
